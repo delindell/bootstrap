@@ -1,3 +1,7 @@
 body {
     background-color: aqua;
 }
+
+.card {
+    margin-bottom: 15px;
+}
